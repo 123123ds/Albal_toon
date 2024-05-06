@@ -1,0 +1,38 @@
+.NewStore_MainPage {
+    position: absolute;
+    width: 80%;
+    height: 70%;
+    border: 1px solid black;
+    left: 10%;
+    top: 10%;
+}
+
+.NewStore_MainPage a{
+    position: absolute;
+    width: 500px;
+    height: 10px;
+    left: 40%;
+    top: 10%;
+}
+
+.NewStore_Table{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    border: 1px solid black;
+    left: 10%;
+    top: 10%;
+}
+
+.NewStore_Table tr{
+    border: 1px solid black;
+}
+
+.NewStore_Table td{
+    border: 1px solid black;
+}
+
+.NewStore_Table tr:nth-child(1){
+    position: absolute;
+
+}
